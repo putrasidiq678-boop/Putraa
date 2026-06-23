@@ -1,4 +1,3 @@
-# Putraa
 # Hi, I'm Muhammad Sidiq 👋
 
 🎓 Mathematics Student at **Universitas Negeri Malang** — Semester 6  
@@ -27,41 +26,41 @@
 ### 📚 Library Management System
 > Full-stack web application for managing library operations including book catalog, member management, and borrowing system.  
 > **Stack:** PHP · Laravel · MySQL  
-> 🔗 [Repository](https://github.com/putrasidiq678-boop/Digital-library.git) · [Live Demo](https://YOUR_RAILWAY_LINK)
+> 🔗 [Repository](https://github.com/putrasidiq678-boop/Digital-library) · [Live Demo](https://digital-library-production-65ce.up.railway.app/)
 
 ---
 
 ### 🤖 AI-Integrated E-Learning Platform
 > E-learning platform powered by OpenAI API to provide personalized learning assistance with AI-driven Q&A features.  
 > **Stack:** PHP · Laravel · MySQL · OpenAI API  
-> 🔗 [Repository][(https://github.com/putrasidiq678-boop/e-learning.git) · [Live Demo](https://YOUR_RAILWAY_LINK)
+> 🔗 [Repository](https://github.com/putrasidiq678-boop/e-learning) · [Live Demo](https://ample-unity-production-158a.up.railway.app/login)
 
 ---
 
 ### 📈 NASDAQ Stock Price Movement Prediction
 > Binary classification model to predict next-day stock movement (Up/Down) using NASDAQ historical data from Kaggle. Compared SVM (53.1%) vs Random Forest (62.2%).  
 > **Stack:** Python · Scikit-learn · Pandas · Matplotlib · Seaborn  
-> 🔗 [Repository](https://github.com/putrasidiq678-boop/nasdaq-stock-prediction.git)
+> 🔗 [Repository](https://github.com/putrasidiq678-boop/nasdaq-stock-prediction)
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Putraa&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Putraa&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=putrasidiq678-boop&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=putrasidiq678-boop&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 ---
 
 ## 📬 Let's Connect
 
-[![LinkedIn](https://www.linkedin.com/in/putra-sidiq-5294bb3bb/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-sidiq-eka-syahputra-5294bb3bb/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/putrasidiq678-boop)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:putrasidiq678@gmail.com)
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Putraa&color=blue&style=flat-square" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=putrasidiq678-boop&color=blue&style=flat-square" alt="Profile views"/>
 </p>
